@@ -9,3 +9,12 @@
 **Link to work:** 
 1. [FreeCodeCamp ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/import-a-default-export)
 2. [Looping a Triangle] (https://github.com/amygurski/EloquentJavascriptExercises/blob/master/Ch2-ProgramStructure/Ch2-LoopingaTriangle/test.js)
+
+### Day 2: October 15, 2019 
+
+**Today's Progress**: freeCodeCamp was down for a major update, so I finished reading Chapter 2 of Eloquent Javascript and did the final 2 exercises instead.
+
+**Thoughts:** I immediately knew how to do these exercises (no Google needed, LOL), so I guess I have made some progress.
+
+**Link to work:** 
+1. [FizzBuz](https://github.com/amygurski/EloquentJavascriptExercises/blob/master/Ch2-FizzBuzz/fizzbuzz.js)
