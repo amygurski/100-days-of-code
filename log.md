@@ -17,3 +17,4 @@
 
 **Link to work:** 
 1. [FizzBuzz](https://github.com/amygurski/EloquentJavascriptExercises/blob/master/Ch2-FizzBuzz/fizzbuzz.js)
+2. [Chessboard](https://github.com/amygurski/EloquentJavascriptExercises/blob/master/Ch3-Chessboard/chessboard.js)
