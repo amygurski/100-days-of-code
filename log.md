@@ -7,8 +7,7 @@
 **Thoughts:** I completed the FreeCodeCamp Responsive Web Design Certification in good time (3 months from end April to end July). I immediately started the Javascript Algorithms And Data Structures Certification, but it's been slow going through the "Introduction to the ES6 Challenges". I'll need to revisit these but wanted to move forward for now, so I'm using this #100DaysofCode as motivation. Maybe it will click better when I come back to it in a while. Reading Eloquent Javascript seems to be helping solidy some things.
 
 **Link to work:** 
-1. [FreeCodeCamp ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/import-a-default-export)
-2. [Looping a Triangle](https://github.com/amygurski/EloquentJavascriptExercises/blob/master/Ch2-ProgramStructure/Ch2-LoopingaTriangle/test.js)
+[Looping a Triangle](https://github.com/amygurski/EloquentJavascriptExercises/blob/master/Ch2-ProgramStructure/Ch2-LoopingaTriangle/test.js)
 
 ### Day 2: October 15, 2019 
 
