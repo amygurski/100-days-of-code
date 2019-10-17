@@ -21,9 +21,10 @@
 
 ### Day 3: October 17, 2019 
 
-**Today's Progress**: freeCodeCamp Regular Expressions challenges
+**Today's Progress**: freeCodeCamp Regular Expressions challenges & the first two Project Euler challenges.
 
-**Thoughts:** freeCodeCamp is still down in that you can't log in to save your progress, but I'm saving my solutions to my Google Doc notes to add later. Yesterday was a miss. I re-read the rules before I skipped it and confirmed that I can miss 1 day in 2 weeks. My youngest woke up a 4am (we ignored her until 5, but that was the end of sleep), I worked from 8-5, quick dinner with family, PTO meeting (I'm a treasurer), then monthly board game social with husband (whose New Year's resolution was to go to these more often). I'm not letting it get me down or stress me out. I know I can stick to the challenge and don't regret yesterday's priorities. Today was good - regular expressions were a new topic and intuitive. 
+**Thoughts:** freeCodeCamp is still down in that you can't log in to save your progress, but I'm saving my solutions to my Google Doc notes to add later. Regular expressions in JS was a new topic and intuitive. I also had some fun with Project Euler.
 
 **Link to work:** 
-Project Euler Problem 1: [Multiples of 3 and 5](https://github.com/amygurski/ProjectEuler/blob/master/problem-1-multiples-of-3-and-5.js)
+1. [Multiples of 3 and 5](https://github.com/amygurski/ProjectEuler/blob/master/problem-1-multiples-of-3-and-5.js)
+2. [Even Fibonacci Numbers](https://github.com/amygurski/ProjectEuler/blob/master/problem-2-even-fibonacci-numbers.js)
