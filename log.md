@@ -13,7 +13,7 @@
 
 **Today's Progress**: freeCodeCamp was down for a major update, so I finished reading Chapter 2 of Eloquent Javascript and did the final 2 exercises instead.
 
-**Thoughts:** I immediately knew how to do these exercises (no Google needed, LOL), so I guess I have made some progress since I started trying to learn in earnest in April.
+**Thoughts:** I immediately knew how to do these exercises (no Google needed, LOL), so I guess I have made some progress since I started trying to learn in earnest in April. I would like to re-visit the Chessboard at some point and make it scaleable.
 
 **Link to work:** 
 1. [FizzBuzz](https://github.com/amygurski/EloquentJavascriptExercises/blob/master/Ch2-FizzBuzz/fizzbuzz.js)
@@ -21,10 +21,19 @@
 
 ### Day 3: October 17, 2019 
 
-**Today's Progress**: freeCodeCamp Regular Expressions challenges & the first two Project Euler challenges.
+**Today's Progress**: freeCodeCamp Regular Expressions tutorials & the first two Project Euler challenges.
 
 **Thoughts:** freeCodeCamp is still down in that you can't log in to save your progress, but I'm saving my solutions to my Google Doc notes to add later. Regular expressions in JS was a new topic and intuitive. I also had some fun with Project Euler.
 
 **Link to work:** 
 1. [Multiples of 3 and 5](https://github.com/amygurski/ProjectEuler/blob/master/problem-1-multiples-of-3-and-5.js)
 2. [Even Fibonacci Numbers](https://github.com/amygurski/ProjectEuler/blob/master/problem-2-even-fibonacci-numbers.js)
+
+### Day 4: October 18, 2019 
+
+**Today's Progress**: freeCodeCamp Regular Expressions  & "100 doors" Rosetta Code Challenge
+
+**Thoughts:** Off to Cedar Point today. I have my laptop and hope to find an hour to code each day. 
+
+**Link to work:** 
+[100 Doors](https://github.com/amygurski/RosettaCode/blob/master/rosetta-code-100-doors.js)
