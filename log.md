@@ -37,3 +37,16 @@
 
 **Link to work:** 
 [100 Doors](https://github.com/amygurski/RosettaCode/blob/master/rosetta-code-100-doors.js)
+
+### Day 5: October 19, 2019 
+
+**Today's Progress**: Finished freeCodeCamp Regular Expressions 
+
+**Thoughts:** Did this from Cedar Point hotel. It was easy enough to get away for an hour but I was happy to get back to family.
+
+### Day 6: October 20, 2019 
+
+**Today's Progress**: Debugging in JS on freeCodecamp 
+
+**Thoughts:** freeCodeCamp sign-in is working again, so I need to go back and fill in the challenges to complete them on my account. Not today though. I'm back from Cedar Point and tired.
+
