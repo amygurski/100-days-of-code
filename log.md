@@ -42,11 +42,19 @@
 
 **Today's Progress**: Finished freeCodeCamp Regular Expressions 
 
-**Thoughts:** Did this from Cedar Point hotel. It was easy enough to get away for an hour but I was happy to get back to family.
+**Thoughts:** Did this from Cedar Point hotel. No exercises today outside of the freeCodeCamp challenges - it was easy enough to get away for an hour, but I want to get back to family who is visiting.
 
 ### Day 6: October 20, 2019 
 
 **Today's Progress**: Debugging in JS on freeCodecamp 
 
-**Thoughts:** freeCodeCamp sign-in is working again, so I need to go back and fill in the challenges to complete them on my account. Not today though. I'm back from Cedar Point and tired.
+**Thoughts:** This section was all stuff I had figured out by now out of necessity, but it was still nice to have it laid out. No exercises today outside of the freeCodeCamp challenges - I'm back from the weekend at Cedar Point and tired.  
 
+### Day 7: October 21, 2019 
+
+**Today's Progress**: Did the 1st project in the JavaScript Datastructures and Algorithms certification on freeCodeCamp.
+
+**Thoughts:** I filled in my progress on freeCodeCamp then took a look at the 1st project. I decided I had done enough at this point to tackle it, so that was my focus today.
+
+**Link to work:** 
+[Palindrome Checker](https://github.com/amygurski/fCC-JS-Projects/blob/master/palindrome-checker.js)
