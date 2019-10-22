@@ -52,7 +52,7 @@
 
 ### Day 7: October 21, 2019 
 
-**Today's Progress**: Did the 1st project in the JavaScript Datastructures and Algorithms certification on freeCodeCamp.
+**Today's Progress**: Did the 1st project in the JavaScript Data structures and Algorithms certification on freeCodeCamp.
 
 **Thoughts:** I filled in my progress on freeCodeCamp then took a look at the 1st project. I decided I had done enough at this point to tackle it, so that was my focus today.
 
