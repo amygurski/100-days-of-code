@@ -58,3 +58,21 @@
 
 **Link to work:** 
 [Palindrome Checker](https://github.com/amygurski/fCC-JS-Projects/blob/master/palindrome-checker.js)
+
+### Day 8: October 22, 2019 
+
+**Today's Progress**: Created my personal portfolio using Github pages and figured out how to link it to my domain.
+
+**Thoughts:** I decided it would be good to have a shell of a personal page then add projects as I do them. But creating a webpage is a project in itself and I have been wanting to learn beyond HTML and CSS, so I'm not sure where I'm going to find the time.
+
+**Link to work:** 
+[My Personal Portfolio](amygurski.com)
+
+### Day 9: October 23, 2019 
+
+**Today's Progress**: Personal portfolio, messed around with some HTML and CSS on my new site.
+
+**Thoughts:** I got stuck in a rabbit hole of trying to make my new personal portfolio look a certain way instead of adding content or coding. It was disappointing. Tomorrow, I am going to get back to freeCodeCamp so I can finish JS this year.
+
+**Link to work:** 
+[My Personal Portfolio](amygurski.com)
