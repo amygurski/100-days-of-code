@@ -76,3 +76,12 @@
 
 **Link to work:** 
 [My Personal Portfolio](amygurski.com)
+
+### Day 10: October 24, 2019 
+
+**Today's Progress**: 2nd project in the JavaScript Data structures and Algorithms certification on freeCodeCamp.
+
+**Thoughts:** I only have 107 challenges and 3 more projects to complete the JS track. OK, that sounds like a lot but there are 81 days left this year so I could do 2 challenges per day and still have 2 weeks to complete the 3 projects. Really, that seems more than do-able. 
+
+**Link to work:** 
+[Roman Numeral Converter](https://github.com/amygurski/fCC-JS-Projects/blob/master/roman-numeral-converter.js)
