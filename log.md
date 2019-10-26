@@ -85,3 +85,15 @@
 
 **Link to work:** 
 [Roman Numeral Converter](https://github.com/amygurski/fCC-JS-Projects/blob/master/roman-numeral-converter.js)
+
+### Day 11: October 25, 2019 
+
+**Today's Progress**: Data structures in JS on freeCodeCamp
+
+**Thoughts:** Good progress today on the Javascript section of freeCodeCamp even though there are no exercises to show for it.
+
+### Day 12: October 26, 2019 
+
+**Today's Progress**: Finished data structures in JS on freeCodeCamp
+
+**Thoughts:** Excited to be moving along. I was getting discracted by wanting to build my portfolio website and do projects but I feel like I'm learning and getting a better foundation by focusing on the curriculum.
