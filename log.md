@@ -90,7 +90,7 @@
 
 **Today's Progress**: Data structures in JS on freeCodeCamp
 
-**Thoughts:** Good progress today on the Javascript section of freeCodeCamp even though there are no exercises to show for it.
+**Thoughts:** Good progress today on the Javascript section of freeCodeCamp even though there is no coding work to show for it.
 
 ### Day 12: October 26, 2019 
 
