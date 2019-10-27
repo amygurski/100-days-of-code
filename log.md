@@ -94,6 +94,9 @@
 
 ### Day 12: October 26, 2019 
 
-**Today's Progress**: Finished data structures in JS on freeCodeCamp
+**Today's Progress**: Finished data structures and started on Basic Algorithm Scripting in freeCodeCamp
 
-**Thoughts:** Excited to be moving along. I was getting discracted by wanting to build my portfolio website and do projects but I feel like I'm learning and getting a better foundation by focusing on the curriculum.
+**Thoughts:** Excited to be moving along. I was getting discracted by wanting to build my portfolio website and do projects but I feel like I'm learning and getting a better foundation by focusing on the JS curriculum.
+
+**Link to work:** 
+[First 4 Basic Algorithm Scripting Challenges](https://github.com/amygurski/fCC-JS-Projects/tree/master/Basic-Algorithm-Scripting)
