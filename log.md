@@ -100,3 +100,11 @@
 
 **Link to work:** 
 [First 4 Basic Algorithm Scripting Challenges](https://github.com/amygurski/fCC-JS-Projects/tree/master/Basic-Algorithm-Scripting)
+
+### Day 12: October 27, 2019 
+
+**Today's Progress**: More Basic Algorithm Scripting in freeCodeCamp
+
+**Link to work:** 
+[Next 4 Basic Algorithm Scripting Challenges](https://github.com/amygurski/fCC-JS-Projects/tree/master/Basic-Algorithm-Scripting)
+
