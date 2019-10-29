@@ -108,3 +108,20 @@
 **Link to work:** 
 [Next 4 Basic Algorithm Scripting Challenges](https://github.com/amygurski/fCC-JS-Projects/tree/master/Basic-Algorithm-Scripting)
 
+### Day 14: October 28, 2019 
+
+**Today's Progress**: getWITit Woman in Tech conference
+
+**Thoughts:** Today was AWESOME. The most important part was probably networking, but as far as this challenge is concerned, I built a binary clock with a Raspberry Pi Zero and a small amount of Python exposure. And I went to a practice session for whiteboard interveiewing. I sat at the 0-1 year experience table and we had to "white board" reversing a string, counting a character in a string, and a multiplication table as a team.
+
+**Link to work:** 
+[getWITit Conference](https://getwitit.org/witcon2019-cleveland-sessions/)
+
+### Day 15: October 29, 2019 
+
+**Today's Progress**: HackerRank challenges
+
+**Thoughts:** I signed up for HackerRank today to get more practice working out problems. I did the 1st day of 30 days of code and the 1st day of 10 days of JS and two Problem Solving challenges.
+
+**Link to work:** 
+[HackerRank Profile](https://www.hackerrank.com/amygurski)
