@@ -125,3 +125,12 @@
 
 **Link to work:** 
 [HackerRank Profile](https://www.hackerrank.com/amygurski)
+
+### Day 16: October 30, 2019 
+
+**Today's Progress**: SQL Murder Mystery Party
+
+**Thoughts:** Super fun. I went to Tech Elevator for a walkthrough of SQL Murder Mystery and learned the basics of SQL.
+
+**Link to exercise:** 
+[The SQL Murder Mystery](http://mystery.knightlab.com/)
