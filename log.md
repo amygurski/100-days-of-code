@@ -134,3 +134,24 @@
 
 **Link to exercise:** 
 [The SQL Murder Mystery](http://mystery.knightlab.com/)
+
+### Day 17: November 1, 2019 
+
+**Today's Progress**: Started Become a C# developer track on Lynda. Started learning about algorithms.
+
+**Thoughts:** First introduction to algorithms and considerations like the Big O.
+
+### Day 18: November 2, 2019 
+
+**Today's Progress**: Finished the algorithms topic. 
+
+**Thoughts:** This was heavy on theory. Probably important but no exercises to show for it.
+
+### Day 19: November 3, 2019 
+
+**Today's Progress**: HackerRank - the first 5 days of the 30 days of code exercises.
+
+**Thoughts:** I wanted to do some real exercises. These first 5 were easy at this point, but it did have a nice explanation of classes. If I can stay on top of them now, 1 unlocks per day.
+
+**Link to exercise:** 
+[HackerRank Profile](https://www.hackerrank.com/amygurski)
