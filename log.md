@@ -173,3 +173,15 @@
 
 **Link to exercise:** 
 [HackerRank Profile](https://www.hackerrank.com/amygurski)
+
+### Day 22: November 6, 2019 
+
+**Today's Progress**: Day 6 of Hackerank 30 days of Code and 2 more basic algorithm scripting challenges on fCC.
+
+**Thoughts:** 
+
+**Link to exercise:** 
+[Title Case A Sentence](https://github.com/amygurski/fCC-JS-Projects/blob/master/Basic-Algorithm-Scripting/title-case-a-sentence.js)
+[Boolean Check](https://github.com/amygurski/fCC-JS-Projects/blob/master/Basic-Algorithm-Scripting/boolean-check.js)
+
+
