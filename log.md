@@ -156,11 +156,20 @@
 **Link to exercise:** 
 [HackerRank Profile](https://www.hackerrank.com/amygurski)
 
-### Day 19: November 3, 2019 
+### Day 20: November 4, 2019 
 
 **Today's Progress**: HackerRank - the first 3 days of the 10 days of JS exercises.
 
 **Thoughts:** This was 8 challenges in total. While the challenges were easy, the tutorials actually covered a lot of good basics that I'd missed or not internalized in freeCodeCamp.
+
+**Link to exercise:** 
+[HackerRank Profile](https://www.hackerrank.com/amygurski)
+
+### Day 21: November 5, 2019 
+
+**Today's Progress**: More HackerRank JS exercises.
+
+**Thoughts:** I had fun getting the 2nd max of an array where the values weren't unique (eg. there might be 2 of the largest number).
 
 **Link to exercise:** 
 [HackerRank Profile](https://www.hackerrank.com/amygurski)
