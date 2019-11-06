@@ -155,3 +155,12 @@
 
 **Link to exercise:** 
 [HackerRank Profile](https://www.hackerrank.com/amygurski)
+
+### Day 19: November 3, 2019 
+
+**Today's Progress**: HackerRank - the first 3 days of the 10 days of JS exercises.
+
+**Thoughts:** This was 8 challenges in total. While the challenges were easy, the tutorials actually covered a lot of good basics that I'd missed or not internalized in freeCodeCamp.
+
+**Link to exercise:** 
+[HackerRank Profile](https://www.hackerrank.com/amygurski)
