@@ -184,4 +184,10 @@
 [Title Case A Sentence](https://github.com/amygurski/fCC-JS-Projects/blob/master/Basic-Algorithm-Scripting/title-case-a-sentence.js)
 [Boolean Check](https://github.com/amygurski/fCC-JS-Projects/blob/master/Basic-Algorithm-Scripting/boolean-check.js)
 
+### Day 23: November 7, 2019 
 
+**Today's Progress**: Attended React.JS meetup. Topic was Gatsby framework.
+
+**Thoughts:** 
+
+**Link to exercise:** 
