@@ -188,6 +188,18 @@
 
 **Today's Progress**: Attended React.JS meetup. Topic was Gatsby framework.
 
-**Thoughts:** 
+**Thoughts:** Most of this was over my head, but I was still happy I went.
+
+### Day 24: November 9, 2019 
+
+**Today's Progress**: freeCodeCamp JS - Finished the last 5 introduction to Algorithm Challenges and then did the 3rd final project - Caeser's Cipher
+
+**Thoughts:** I wish I could remember syntax! I keep having to google to remember eg. the difference between slice and splice, etc. 
 
 **Link to exercise:** 
+[Caesers Cipher](https://github.com/amygurski/fCC-JS-Projects/blob/master/Caesers-Cipher.js)
+[Chunky Monkey](https://github.com/amygurski/fCC-JS-Projects/blob/master/Basic-Algorithm-Scripting/chunky-monkey.js)
+[Falsy Bouncer](https://github.com/amygurski/fCC-JS-Projects/blob/master/Basic-Algorithm-Scripting/falsy-bouncer.js)
+[Mutations](https://github.com/amygurski/fCC-JS-Projects/blob/master/Basic-Algorithm-Scripting/mutations.js)
+[Slice and Splice](https://github.com/amygurski/fCC-JS-Projects/blob/master/Basic-Algorithm-Scripting/slice-and-splice.js)
+[Where do I belong](https://github.com/amygurski/fCC-JS-Projects/blob/master/Basic-Algorithm-Scripting/where-do-i-belong.js)
