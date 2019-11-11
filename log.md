@@ -203,3 +203,12 @@
 [Mutations](https://github.com/amygurski/fCC-JS-Projects/blob/master/Basic-Algorithm-Scripting/mutations.js)
 [Slice and Splice](https://github.com/amygurski/fCC-JS-Projects/blob/master/Basic-Algorithm-Scripting/slice-and-splice.js)
 [Where do I belong](https://github.com/amygurski/fCC-JS-Projects/blob/master/Basic-Algorithm-Scripting/where-do-i-belong.js)
+
+### Day 25: November 10, 2019 
+
+**Today's Progress**: freeCodeCamp JS - Finished the 4th project, which was a telephone number validator.
+
+**Thoughts:** This was all about regular expressions. It's funny how long 1 line of code took to write (2 hours). I used VS Code to test it in bits. My result wasn't nearly as elegant as the solution, I didn't make use of '?' at all which would have reduced it by a lot. 
+
+**Link to exercise:** 
+[Tel Num Validator](https://github.com/amygurski/fCC-JS-Projects/blob/master/telephone-number-validator.js)
