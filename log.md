@@ -219,7 +219,7 @@
 
 **Thoughts:** Completed 22/26 exercises. Felt like good progress. 
 
-### Day 27: November 11, 2019 
+### Day 27: November 12, 2019 
 
 **Today's Progress**: Finished the last 4 Object Oriented Programming challenges and went back and finished the 11 or so ES6 challenges I had left. Spent some time trying to map out the cash register challenge. 
 
