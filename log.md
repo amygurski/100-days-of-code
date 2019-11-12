@@ -217,4 +217,10 @@
 
 **Today's Progress**: freeCodeCamp Object Oriented Programming
 
-**Thoughts:** Completed 22/26 exercises. Felt like good progress. I'm confident I'll finish the JS Certificate before starting my bootcamp, which is great.
+**Thoughts:** Completed 22/26 exercises. Felt like good progress. 
+
+### Day 27: November 11, 2019 
+
+**Today's Progress**: Finished the last 4 Object Oriented Programming challenges and went back and finished the 11 or so ES6 challenges I had left. Spent some time trying to map out the cash register challenge. 
+
+**Thoughts:** I'm a bit stuck on the cash register challenge. I wish I had someone to work with. I handled the easy cases of not enough cash in drawer and same cash in drawer and owed. But now I have to work out what change to give. I can kind of see how to do just the optimal change part using recursion starting from the largest denimination, but I also have to consider that I could for example run out of quarters and need to use 2 dimes and a nickel instead. And then what if I have enough in the drawer but can't break the correct change (eg. I have a $1 bill, but need to give $0.05 back). I was feeling stuck and took a break and finished up some of the freeCodeCamp curriculum instead.
