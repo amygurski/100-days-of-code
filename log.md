@@ -212,3 +212,9 @@
 
 **Link to exercise:** 
 [Tel Num Validator](https://github.com/amygurski/fCC-JS-Projects/blob/master/telephone-number-validator.js)
+
+### Day 26: November 11, 2019 
+
+**Today's Progress**: freeCodeCamp Object Oriented Programming
+
+**Thoughts:** Completed 22/26 exercises. Felt like good progress. I'm confident I'll finish the JS Certificate before starting my bootcamp, which is great.
