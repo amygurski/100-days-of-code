@@ -225,7 +225,6 @@
 
 **Thoughts:** I'm a bit stuck on the cash register challenge. I wish I had someone to work with. I handled the easy cases of not enough cash in drawer and same cash in drawer and owed. But now I have to work out what change to give. I can kind of see how to do just the optimal change part using recursion starting from the largest denimination, but I also have to consider that I could for example run out of quarters and need to use 2 dimes and a nickel instead. And then what if I have enough in the drawer but can't break the correct change (eg. I have a $1 bill, but need to give $0.05 back). I was feeling stuck and took a break and finished up some of the freeCodeCamp curriculum instead.
 
-
 ### Day 28: November 13, 2019 
 
 **Today's Progress**: Finished last project for freeCodeCamp's JS certificate. Woo hoo!
@@ -234,3 +233,24 @@
 
 **Link to exercise:** 
 [Cash register](https://github.com/amygurski/fCC-JS-Projects/blob/master/cash-register.js)
+
+### Day 29: November 14, 2019 
+
+**Today's Progress**: Started Functional Programming in JS on fcc
+
+**Thoughts:** I just have functional programming and advanced algorithms left on fcc before I claim my certificate. 600 coding hours under my belt which is awesome.
+
+### Day 30: November 15, 2019 
+
+**Today's Progress**: I had the morning off, so I spent a lot of time on Scrimba's intro to react course. 
+
+**Thoughts:** So far I'm LOVING this course. It has a lot of repitition to help concepts sink in. 
+
+### Day 31: November 16, 2019 
+
+**Today's Progress**: Finished functional programming and did the first Advanced Algorithm Challenge.
+
+**Thoughts:** The advanced algorithm challenge was easy for me now and for once, my solution matched the given solution.
+
+**Link to exercise:** 
+[Sum All Numbers in Range](https://github.com/amygurski/fCC-JS-Projects/blob/master/Advanced-Algorithm-Scripting/sum-all-numbers-in-range.js)
