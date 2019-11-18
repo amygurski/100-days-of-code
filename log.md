@@ -254,3 +254,12 @@
 
 **Link to exercise:** 
 [Sum All Numbers in Range](https://github.com/amygurski/fCC-JS-Projects/blob/master/Advanced-Algorithm-Scripting/sum-all-numbers-in-range.js)
+
+### Day 32: November 17, 2019 
+
+**Today's Progress**: Worked on Advanced Algorithm Challenges on fcc.
+
+**Thoughts:** I'm up to 7 out of 21 now. 
+
+**Link to exercise:** 
+[Search and Replace](https://github.com/amygurski/fCC-JS-Projects/blob/master/Advanced-Algorithm-Scripting/search-and-replace.js)
