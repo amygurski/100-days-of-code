@@ -262,4 +262,13 @@
 **Thoughts:** I'm up to 7 out of 21 now. 
 
 **Link to exercise:** 
-[Search and Replace](https://github.com/amygurski/fCC-JS-Projects/blob/master/Advanced-Algorithm-Scripting/search-and-replace.js)
+[Advanced Algorithm Scripting](https://github.com/amygurski/fCC-JS-Projects/tree/master/Advanced-Algorithm-Scripting)
+
+### Day 33: November 18, 2019 
+
+**Today's Progress**: Worked on Advanced Algorithm Challenges on fcc.
+
+**Thoughts:** I'm up to 12 out of 21 now. 
+
+**Link to exercise:** 
+[Advanced Algorithm Scripting](https://github.com/amygurski/fCC-JS-Projects/tree/master/Advanced-Algorithm-Scripting)
