@@ -275,9 +275,10 @@
 
 ### Day 34: November 19, 2019 
 
-**Today's Progress**: Worked on Advanced Algorithm Challenges on fCC.
+**Today's Progress**: Finished the Advanced Algorithm Challenges on fCC.
 
-**Thoughts:** I'm up to 18 out of 21 now. 
+**Thoughts:** Woo hoow! I finished and claimed by Javascript Algorithms and Data Structures Certificate from freeCodeCamp. Another 300 hours of coding under my belt (and I believe it took that long for this one!).
+[Javascript Certificate](https://www.freecodecamp.org/certification/amygurski/javascript-algorithms-and-data-structures)
 
 **Link to exercise:** 
 [Advanced Algorithm Scripting](https://github.com/amygurski/fCC-JS-Projects/tree/master/Advanced-Algorithm-Scripting)
