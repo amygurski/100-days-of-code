@@ -257,7 +257,7 @@
 
 ### Day 32: November 17, 2019 
 
-**Today's Progress**: Worked on Advanced Algorithm Challenges on fcc.
+**Today's Progress**: Worked on Advanced Algorithm Challenges on fCC.
 
 **Thoughts:** I'm up to 7 out of 21 now. 
 
@@ -266,9 +266,18 @@
 
 ### Day 33: November 18, 2019 
 
-**Today's Progress**: Worked on Advanced Algorithm Challenges on fcc.
+**Today's Progress**: Worked on Advanced Algorithm Challenges on fCC.
 
 **Thoughts:** I'm up to 12 out of 21 now. 
+
+**Link to exercise:** 
+[Advanced Algorithm Scripting](https://github.com/amygurski/fCC-JS-Projects/tree/master/Advanced-Algorithm-Scripting)
+
+### Day 34: November 19, 2019 
+
+**Today's Progress**: Worked on Advanced Algorithm Challenges on fCC.
+
+**Thoughts:** I'm up to 18 out of 21 now. 
 
 **Link to exercise:** 
 [Advanced Algorithm Scripting](https://github.com/amygurski/fCC-JS-Projects/tree/master/Advanced-Algorithm-Scripting)
