@@ -282,3 +282,9 @@
 
 **Link to exercise:** 
 [Advanced Algorithm Scripting](https://github.com/amygurski/fCC-JS-Projects/tree/master/Advanced-Algorithm-Scripting)
+
+### Day 35: November 23, 2019 
+### Day 36: November 24, 2019 
+**Today's Progress**: Scrimba's intro to react course. 
+
+**Thoughts:** Not much to show for this. The playground is cool, so I feel like I am getting a lot of the concepts, but no projects to show for it. I'm about halfway through now. 
