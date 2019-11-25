@@ -288,3 +288,8 @@
 **Today's Progress**: Scrimba's intro to react course. 
 
 **Thoughts:** Not much to show for this. The playground is cool, so I feel like I am getting a lot of the concepts, but no projects to show for it. I'm about halfway through now. 
+
+### Day 37: November 25, 2019 
+**Today's Progress**: freeCodeCamp's front end libraries. Completed Bootstrap and jQuery.
+
+**Thoughts:** Super fun, these challenges seem quick so I should hopefully get to the final projects in not too long.
