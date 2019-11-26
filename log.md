@@ -293,3 +293,8 @@
 **Today's Progress**: freeCodeCamp's front end libraries. Completed Bootstrap and jQuery.
 
 **Thoughts:** Super fun, these challenges seem quick so I should hopefully get to the final projects in not too long.
+
+### Day 38: November 26, 2019 
+**Today's Progress**: freeCodeCamp's front end libraries. Completed Sass and started React.
+
+**Thoughts:** Still fun. The React is familiar so far but getting close to new material.
