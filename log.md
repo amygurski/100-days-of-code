@@ -298,3 +298,13 @@
 **Today's Progress**: freeCodeCamp's front end libraries. Completed Sass and started React.
 
 **Thoughts:** Still fun. The React is familiar so far but getting close to new material.
+
+### Day 38: Dec 1, 2019 
+**Today's Progress**: Started the 1st front end libraries project on freeCodeCamp, a random quote generator.
+
+**Thoughts:** Short break to spend time with family over Thanksgiving. I mostly finished the look of it and I love how it looks. I used Bootstrap and Font Awesome for the 1st time - I think I made it so the quote box will be centered horizontally regardless of the screen size. 
+
+**Link to exercise:** 
+[Random Quote Generator](https://codepen.io/amygurski/pen/povzBVK)
+
+
