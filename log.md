@@ -307,4 +307,10 @@
 **Link to exercise:** 
 [Random Quote Generator](https://codepen.io/amygurski/pen/povzBVK)
 
+### Day 40: Dec 2, 2019 
+**Today's Progress**: Finished my random quote generator.
 
+**Thoughts:** I learned a lot doing this. Used JQuery for the 1st time. 
+
+**Link to exercise:** 
+[Random Quote Generator](https://codepen.io/amygurski/pen/povzBVK)
