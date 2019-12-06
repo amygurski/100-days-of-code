@@ -310,7 +310,24 @@
 ### Day 40: Dec 2, 2019 
 **Today's Progress**: Finished my random quote generator.
 
-**Thoughts:** I learned a lot doing this. Used JQuery for the 1st time. 
+**Thoughts:** I learned a lot doing this. Used JQuery for the 1st time but I think it was also my first time combining JS with HTML & CSS.
 
 **Link to exercise:** 
 [Random Quote Generator](https://codepen.io/amygurski/pen/povzBVK)
+
+
+### Day 41: Dec 4, 2019 
+**Today's Progress**: Women, Wine, and Web Design
+
+**Thoughts:** 2 hour introduction to HTML and CSS at Tech Elevator. We used Brackets this time, which is great. I would say discovering it was the best part. Also used JS a bit to Show/Hide a section.
+
+**Link to exercise:** 
+[Wine Cellar](https://github.com/amygurski/Women-Wine-and-Web-Design)
+
+### Day 42: Dec 5, 2019 
+**Today's Progress**: Personal Portfolio
+
+**Thoughts:** I decided I can make my own portfolio page without using a theme. I was going back and forth on whether it would be better to just use a theme. I was surprised at how much progress I made in only about 2 hours. I only have 1 project I would even consider putting on it right now, but this way it'll be easy to add to it as I gain skills and do projects after I start my bootcamp.
+
+**Link to exercise:** 
+[Personal Portfolio](https://codepen.io/amygurski/pen/VwYLwWr)
