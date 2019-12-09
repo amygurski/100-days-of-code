@@ -331,3 +331,12 @@
 
 **Link to exercise:** 
 [Personal Portfolio](https://codepen.io/amygurski/pen/VwYLwWr)
+
+### Day 42: Dec 5, 2019 
+**Today's Progress**: freeCodeCamp's React
+
+**Thoughts:** My bootcamp is going to use Vue rather than React. I think this may have been easier after learning Vue from what I have read. There are so many new concepts with components, props, state, etc. freeCodeCamp feels like kind of a quick overview, then I'm going to have to go back to Scrimba to cement the knowledge.  
+
+**Link to exercise:** 
+[fCC profile](https://www.freecodecamp.org/amygurski)
+
