@@ -332,7 +332,7 @@
 **Link to exercise:** 
 [Personal Portfolio](https://codepen.io/amygurski/pen/VwYLwWr)
 
-### Day 42: Dec 5, 2019 
+### Day 43: Dec 6, 2019 
 **Today's Progress**: freeCodeCamp's React
 
 **Thoughts:** My bootcamp is going to use Vue rather than React. I think this may have been easier after learning Vue from what I have read. There are so many new concepts with components, props, state, etc. freeCodeCamp feels like kind of a quick overview, then I'm going to have to go back to Scrimba to cement the knowledge.  
@@ -340,3 +340,10 @@
 **Link to exercise:** 
 [fCC profile](https://www.freecodecamp.org/amygurski)
 
+### Day 44: Dec 9, 2019 
+**Today's Progress**: Learn C# in one day and learn it well.
+
+**Thoughts:** This is a beginners book with a hands-on project at the end. I used my last vacation day to do the book. I got through half before lunch, but it was mostly review. The afternoon jumped straight into OOP concepts and has been much, much slower, so I won't finish today.
+
+**Link to exercise:** 
+[]()
