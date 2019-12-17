@@ -345,5 +345,34 @@
 
 **Thoughts:** This is a beginners book with a hands-on project at the end. I used my last vacation day to do the book. I got through half before lunch, but it was mostly review. The afternoon jumped straight into OOP concepts and has been much, much slower, so I won't finish today.
 
-**Link to exercise:** 
-[]()
+### Day 45: Dec 11, 2019 
+**Today's Progress**: I received my pre-course work from Tech Elevator today!
+
+**Thoughts:** I had already done all the freeCodeCamp and the one website project (tribute page). I submitted those and started reading the Little Book of Programming.
+
+### Day 46: Dec 12, 2019 
+**Today's Progress**: Introduction to Golang: Building a Cat Cafe API
+
+**Thoughts:** Women Who Code Meetup. It was an introduction to building a REST API in Goolang for managing resident cats and reservations. I mostly followed along in the solution, rather than working out the code myself which was over my head, but I still had a great time.
+
+[Goolang Cat Cafe](https://github.com/amygurski/golang-cat-cafe)
+
+### Day 47: Dec 13, 2019 
+**Today's Progress**: Tech Elevator course pre-work - Videos
+
+**Thoughts:** I watched the 5 YouTube videos from Stanford CS101 on intro to computing principles, Bits & Bytes and Software 1 & 2. Practiced typing on typing.io.
+
+### Day 48: Dec 14, 2019 
+**Today's Progress**: Tech Elevator course pre-work -Algorithms on Khan Academy
+
+**Thoughts:** I finished the first 2 sections that are required for the pre-work: Computing Algorithms and Binary Search Algorithm. I started on the next section and discovered there is something called "Big Theta" (I had heard of Big-O).
+
+### Day 49: Dec 15, 2019 
+**Today's Progress**: Tech Elevator Course pre-work - Git and CS50
+
+**Thoughts:** Watched the 2 Git intro videos and set up my BitBucket account. I had started CS50 a few years ago, so I was able to transfer the 1st 2 solutions I had completed and modify them to pass the tests and re-submit them. It's a private repository.
+
+### Day 50: Dec 16, 2019 
+**Today's Progress**: Tech Elevator Course pre-work - CS50
+
+**Thoughts:** Listened to the CS50 week 2 lecture (2 hours) on Algorithms. Listening to the 24 hours of CS50 lectures is optional, but I've pretty much done everything else so I feel like I should do it. On the other hand, I miss doing actual projects!
