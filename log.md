@@ -376,3 +376,23 @@
 **Today's Progress**: Tech Elevator Course pre-work - CS50
 
 **Thoughts:** Listened to the CS50 week 2 lecture (2 hours) on Algorithms. Listening to the 24 hours of CS50 lectures is optional, but I've pretty much done everything else so I feel like I should do it. On the other hand, I miss doing actual projects!
+
+### Day 51: Dec 17, 2019 
+**Today's Progress**: Tech Elevator Course pre-work - CS50
+
+**Thoughts:** I completed problem set 2 for CS50 - Caeser and Vigenere. 
+
+### Day 52: Dec 18, 2019 
+**Today's Progress**: Tech Elevator Course pre-work - CS50
+
+**Thoughts:** Listened to Lecture 3 and did the 1st problem from lecture 3, whodunit.
+
+### Day 53: Dec 19, 2019 
+**Today's Progress**: Cleveland C#/VB.Net User Group meetup - Building a Signal R App with React. Also started freeCodeCamp Data Visualization / D3.
+
+**Thoughts:** The meetup was a 1 hour presentation / demo, rather than hands-on or workshop. I think exposure to everything I can is good this early on but didn't really take anything from it I could use / apply.
+
+### Day 54: Dec 23, 2019 
+**Today's Progress**: Tech Elevator Course pre-work - CS50
+
+**Thoughts:** Back from Christmas with my family in Michigan. Listened to the first hour and a half of the CS50 lecture 3. 
