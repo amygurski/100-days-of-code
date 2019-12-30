@@ -396,3 +396,23 @@
 **Today's Progress**: Tech Elevator Course pre-work - CS50
 
 **Thoughts:** Back from Christmas with my family in Michigan. Listened to the first hour and a half of the CS50 lecture 3. 
+
+### Day 55: Dec 27, 2019 
+**Today's Progress**: fCC D3
+
+**Thoughts:** So much fun.
+
+### Day 56: Dec 27, 2019 
+**Today's Progress**: fCC D3 
+
+**Thoughts:** So much fun.
+
+### Day 57: Dec 28, 2019 
+**Today's Progress**: Finished fCC D3 and JSON APIs and AJAX.
+
+**Thoughts:** Really enjoyed that section, but I looked at the first project and have no idea where to start.
+
+### Day 58: Dec 30, 2019 
+**Today's Progress**: Git and bitbucket
+
+**Thoughts:** 1st day getting up at 6 and learning. Did a Git tutorial.
