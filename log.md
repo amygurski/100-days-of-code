@@ -1,3 +1,5 @@
+# Note: Stopped logging because I'm coding all day every day in my coding bootcamp so I don't need this for motivation or habit0forming.
+
 # 100 Days Of Code - Log
 
 ### Day 1: October 14, 2019 
@@ -416,3 +418,5 @@
 **Today's Progress**: Git and bitbucket
 
 **Thoughts:** 1st day getting up at 6 and learning. Did a Git tutorial.
+
+# Note: Stopped logging because I'm coding all day every day in my coding bootcamp so I don't need this for motivation or habit0forming.
